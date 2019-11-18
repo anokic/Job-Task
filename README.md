@@ -5,7 +5,7 @@ Made in short time in **Boostrap Studio** for a job application focused mainly o
 
 It's a simple project envolving a 9 grid products list of fruits from database with image, name and description.
 Comments bellow all products, comments about company and products.
-Everyone can comment but none will be posted until admin accepts or denies them. Exported database included. **Name the database 'juniorPHP'**
+Regular expressions are used on the form for comments. Everyone can comment but none will be posted until admin accepts or denies them. Exported database included. **Name the database 'juniorPHP'**
 
 admin name: '**admin**' <br/>
 password: '**admin**'
