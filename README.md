@@ -10,7 +10,7 @@ Regular expressions are used on the form for comments. Everyone can comment but 
 admin name: '**admin**' <br/>
 password: '**admin**'
 
-Made in 5 hours.
+Made in **5** hours.
 
 **Index** page:
 
