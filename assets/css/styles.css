@@ -1,0 +1,40 @@
+.grid-system {
+  margin-top: 20px;
+}
+.margin-bottom-grid:nth-child(1) {
+  text-align: center;
+  margin-top: 4px!important;
+}
+.margin-bottom-grid {
+  text-align: center;
+  margin-top: 20px;
+}
+.margin-bottom-grid {
+  margin-bottom: 21px;
+}
+.comment-name {
+  margin-bottom: 0px!important;
+}
+.center-fluid {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.user {
+  width: 40%!important;
+}
+.comment-container{
+  margin: 10px 0!important;
+}
+.admin-comment-valid {
+  display:block!important;
+  text-align:left!important;
+  padding:0px!important;
+}
+.accept {
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+.message-width {
+  width: 30%!important;
+}
