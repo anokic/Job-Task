@@ -10,6 +10,8 @@ Regular expressions are used on the form for comments. Everyone can comment but 
 admin name: '**admin**' <br/>
 password: '**admin**'
 
+Made in 5 hours.
+
 **Index** page:
 
 ![Job application](https://i.ibb.co/CJ9ZJJ2/screencapture-localhost-Junior-PHP-index-php-2019-11-18-20-05-39.png)
