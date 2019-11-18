@@ -7,13 +7,13 @@ It's a simple project envolving a 9 grid products list of fruits from database w
 Comments bellow all products, comments about company and products.
 Everyone can comment but none will be posted until admin accepts or denies them.
 
-admin name: 'admin'
-password: 'admin'
+admin name: '**admin**' <br/>
+password: '**admin**'
 
-index page:
+**Index** page:
 
 ![Job application](https://i.ibb.co/CJ9ZJJ2/screencapture-localhost-Junior-PHP-index-php-2019-11-18-20-05-39.png)
 
-and Admin page:
+and **Admin** page:
 
 ![Admin page](https://i.ibb.co/bRQJxhy/screencapture-localhost-Junior-PHP-admin-php-2019-11-18-20-06-00.png)
